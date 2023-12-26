@@ -1,0 +1,43 @@
+_repo: The-house_72388
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Houghton, Louise Seymour
+    alias: Houghton, Louise S. (Louise Seymour)
+    birthdate: 1838
+    deathdate: 1920
+    gutenberg_agent_id: '8250'
+    url: http://www.gutenberg.org/2009/agents/8250
+creator:
+  author:
+    agent_name: Bordeaux, Henry
+    aliases:
+    - Bordeaux, Henri
+    - Bordeaux, Enrique
+    birthdate: 1870
+    deathdate: 1963
+    gutenberg_agent_id: '4478'
+    url: http://www.gutenberg.org/2009/agents/4478
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Henry_Bordeaux
+    - https://en.wikipedia.org/wiki/Henry_Bordeaux
+description: ''
+gutenberg_issued: '2023-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72388'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/008672230
+pgterms:marc905: 20230820024018bordeaux
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: '  $aNew York :$bDuffield & company, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The house
+url: http://www.gutenberg.org/ebooks/72388
