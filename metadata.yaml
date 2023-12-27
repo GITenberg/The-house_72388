@@ -8,6 +8,9 @@ contributor:
     deathdate: 1920
     gutenberg_agent_id: '8250'
     url: http://www.gutenberg.org/2009/agents/8250
+covers:
+- cover_type: archival
+  image_path: 72388-h/images/cover.jpg
 creator:
   author:
     agent_name: Bordeaux, Henry
@@ -22,6 +25,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Henry_Bordeaux
     - https://en.wikipedia.org/wiki/Henry_Bordeaux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72388#The-house
 gutenberg_issued: '2023-12-12'
 gutenberg_type: Text
 identifiers:
